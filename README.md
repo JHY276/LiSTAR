@@ -4,8 +4,8 @@ This repository provides a PyTorch implementation of LiSTAR.
 <img src="https://github.com/JHY276/LiSTAR/blob/main/img/framework.pdf" width="850px">
 
 ## Main Result
-<img src="https://github.com/JHY276/LiSTAR/blob/main/img/result2.png" width="850px">
 <img src="https://github.com/JHY276/LiSTAR/blob/main/img/result1.png" width="850px">
+<img src="https://github.com/JHY276/LiSTAR/blob/main/img/result2.png" width="850px">
 
 ## Requirements
 The recommended requirements for LiSTAR are specified as follows:
