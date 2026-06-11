@@ -1,0 +1,37 @@
+
+
+
+2026-06-11 09:28:17
+================ Hyperparameters ===============
+anormly_ratio: 0.68
+batch_size: 64
+d_model: 128
+data_path: PSM
+dataset: PSM
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 25
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+num_epochs: 3
+output_c: 25
+r: 0.1
+rp: False
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+Total parameters: 11792, Trainable parameters: 11792
+Epoch: 1, Cost train_time: 16.404s 
+Epoch: 2, Cost train_time: 16.301s 
+Epoch: 3, Cost train_time: 16.336s 
+anormly_ratio 0.68
+Threshold : 0.8693386969804756
+Accuracy : 0.9921, Precision : 0.9842, Recall : 0.9874, F-score : 0.9858 
+Total time: 60.0869 seconds
