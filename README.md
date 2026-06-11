@@ -1,11 +1,11 @@
 # LiSTAR: Lightweight Spatio-Temporal Anomaly Detection for Industrial IoT Time Series via Graph Structure Learning and Dual-Scale Cross-Reconstruction
 This repository provides a PyTorch implementation of LiSTAR.
 ## Framework
-<img src="https://github.com/JHY276/LiSTAR/main/img/framework.pdf" width="850px">
+<img src="https://github.com/JHY276/LiSTAR/blob/main/img/framework.pdf" width="850px">
 
 ## Main Result
-<img src="https://github.com/JHY276/LiSTAR/main/img/result2.png" width="850px">
-<img src="https://github.com/JHY276/LiSTAR/main/img/result1.png" width="850px">
+<img src="https://github.com/JHY276/LiSTAR/blob/main/img/result2.png" width="850px">
+<img src="https://github.com/JHY276/LiSTAR/blob/main/img/result1.png" width="850px">
 
 ## Requirements
 The recommended requirements for LiSTAR are specified as follows:
